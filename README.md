@@ -6,8 +6,8 @@ A minimal web scraping script by **Ramcharan Polabathina** that fetches the top 
 
 1. **Inspected the HTML Structure**  
    I first opened [GitHub Trending](https://github.com/trending) and used browser dev tools to inspect the structure. The trending repository data was located inside:
-   
-   ![Inspect Screenshot](screenshot.png) 
+
+   ![Inspect Screenshot](Screenshot.png) 
    ![Inspect Screenshot](Screenshot2.png)
 
    - `<article>` tags
